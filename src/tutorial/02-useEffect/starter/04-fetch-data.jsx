@@ -10,7 +10,6 @@ const FetchData = () => {
       try {
         const data = await fetch(url);
         const users = await data.json();
-        console.log(users);
         setUsers(users);
       } catch (error) {
         console.error(error);
