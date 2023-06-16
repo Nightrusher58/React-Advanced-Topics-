@@ -1,4 +1,4 @@
-import Starter from "./tutorial/06-forms/starter/03-multiple-inputs";
+import Starter from "./tutorial/08-custom-Hooks/starter/02-fetch-data";
 
 function App() {
   return (
